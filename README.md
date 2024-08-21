@@ -1,6 +1,8 @@
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=Python%20Tic%20Tac%20Toe%20Project&message=Intermediate%20Level&color=7d93a6&style=for-the-badge)
+
 # Python Tic Tac Toe Project
 
-## Application Overview:
+### Application Overview:
 
 The Tic-Tac-Toe application is a simple yet interactive game implemented using Python's Tkinter library. It allows two players to play the classic Tic-Tac-Toe game on a 3x3 grid. The application provides a graphical user interface (GUI) where players can click on buttons representing the grid cells to place their marks (X or O), depending on whose turn it is. The game tracks the players' scores and displays the winner after each round. If all the cells are filled without a winner, the game declares a draw.
 
